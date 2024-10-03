@@ -21,9 +21,5 @@
 ### 💬 Vamos conversar!
 - 📧 Email: [talisomffa@gmail.com](mailto:talisomffa@gmail.com)
 - 🔗 LinkedIn: [TalisomFontes](https://www.linkedin.com/in/talisom-fontes-5063b220b/)
-- 🌐 GitHub: [TalisomFontes](https://github.com/TalisomFontes)
-
-
 ---
-
 > “A melhor maneira de aprender é fazendo.” – É assim que estou construindo minha jornada na tecnologia 🚀
