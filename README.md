@@ -20,10 +20,9 @@
 - Me aprofundar em **.NET** e **C#**.
 - Desenvolver projetos práticos de back-end.
 - Construir uma base sólida em **Cloud Computing** com **AWS**.
+---- 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TalisomFontes&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-
----
 
 ## 📚 Projetos:
 
