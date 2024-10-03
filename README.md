@@ -8,10 +8,10 @@
 - 🎓 Participando de um BootCamp de .NET para consolidar meus conhecimentos.
 
 
-### 🛠 Tecnologias & Ferramentas:
+### 🛠 Tecnologias & Ferramentas Que Estudo:
 - **Back-end:** C#, .NET, ASP.NET
 - **Banco de Dados:** MySQL, SQL Server
-- **Cloud:** AWS (em estudo)
+- **Cloud:** AWS 
 - **Ferramentas:** Visual Studio Code, GitHub
 - **Outras linguagens:** Java, Python, HTML, CSS
 
