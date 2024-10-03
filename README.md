@@ -19,9 +19,10 @@
 - 🔥 Migrar para a área de tecnologia e construir uma carreira sólida como desenvolvedor.
 
 ### 💬 Vamos conversar!
-- 📧 Email: [seu-email@exemplo.com](mailto:talisomffa@gmail.com)
-- 🔗 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/talisom-fontes-5063b220b/)
-- 🌐 GitHub: [Seu GitHub](https://github.com/TalisomFontes)
+- 📧 Email: [talisomffa@gmail.com](mailto:talisomffa@gmail.com)
+- 🔗 LinkedIn: [TalisomFontes](https://www.linkedin.com/in/talisom-fontes-5063b220b/)
+- 🌐 GitHub: [TalisomFontes](https://github.com/TalisomFontes)
+
 
 ---
 
